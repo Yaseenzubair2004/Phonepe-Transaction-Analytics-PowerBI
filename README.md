@@ -193,4 +193,4 @@ PhonePe-PowerBI-Dashboard
 
 Yaseen
 
-Power BI | SQL | Excel | SAP ERP | Tally Prime | Finance Analytics
+Power BI | SQL | Excel | Finance Analytics
